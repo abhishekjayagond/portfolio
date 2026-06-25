@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <!-- A Left Leg, Apex, & Upper Right Leg (white) -->
+  <path d="M 7,24 L 16,6 L 20.5,15" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- A Crossbar (white) -->
+  <path d="M 11.5,15 H 20.5" stroke="#ffffff" stroke-width="3" stroke-linecap="round" />
+  <!-- J Stem & Hook (indigo) -->
+  <path d="M 20.5,15 L 25,24 C 25,27.5 22,29.5 18.5,29.5 C 15,29.5 13,27.5 13,25" stroke="#6366f1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
